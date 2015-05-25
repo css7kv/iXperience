@@ -32,7 +32,7 @@ class Dog
 		"Ruff Ruff"
 	end
 end
-spot = Dog.new(Spot)
+spot = Dog.new ("Spot")
 spot.bark
 
 Q7: Error. There is no defined method 'speak'
