@@ -1,0 +1,21 @@
+body {
+	color: skyblue;
+	background: rgba(0,0,0,1);
+	font-family: 'Anton', sans-serif;
+	padding: -20px 0 0 0;
+	text-align: center;
+}
+p {
+	font-family: 'Marcellus', serif;
+	color: lightcyan;
+}
+h3 {
+	font-family: 'Montserrat', sans-serif;
+}
+h1 {
+	text-align: center;
+	font-size: 50px;
+	border: 2px snow;
+	text-shadow: 1px 2px steelblue;
+}
+
