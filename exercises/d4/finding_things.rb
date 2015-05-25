@@ -1,6 +1,5 @@
 def index_of word, letter
   word = word.split(//)
-  
   if word.include? "#{letter}"
     answer = word.find_index("#{letter}")
   else
